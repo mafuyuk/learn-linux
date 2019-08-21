@@ -1,3 +1,8 @@
 ```bash
-$ gcc execve.c -o execve
+$ gcc main.c -o execve
+```
+
+```bash
+$ cmake .
+$ make
 ```
