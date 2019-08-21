@@ -3,6 +3,8 @@ $ gcc main.c -o execve
 ```
 
 ```bash
-$ cmake .
+$ mkdir build
+$ cd build
+$ cmake ..
 $ make
 ```
